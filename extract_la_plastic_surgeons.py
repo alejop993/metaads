@@ -6,7 +6,7 @@ from openpyxl.utils import get_column_letter
 import time
 import sys
 
-ACCESS_TOKEN = "EAAc41mHwnzcBRrljeJEOga1jQ1vE4IBtZBfUSpY2UFjs0LTRuYfJwVQCSZBIkvRYjqHTyxZC0CsNaWVZCZAgkiAJvGgerZBaNAZCeEa266hzehXCxtwFN2UujjgUgWrCsOgXKLxnjNd1sEy8dKaabnoZCQnmbTNQBV5WrePGuHt10C3TgSsYaO2rvUW7vNmpfMQZD"
+ACCESS_TOKEN = "EAAc41mHwnzcBRs0qBzBa8YfqKP7K8fE1wmZBPY0M6IqVsEDmKo8qHtSaMJxaTy9pofTk1AZCKsVCeqq8aS4nwZBgyjTHG242sZCWUjTidU1l9vkpUM5oXVjsKScjEVv5dPZAqzZBWUvUxxVZCZBsAWEnkK1GYu5cJCPJg4d7UeaaivR6msYSbaEsM0q0vnQUlmkZD"
 BASE_URL = "https://graph.facebook.com/v19.0/ads_archive"
 
 KEYWORDS = [
